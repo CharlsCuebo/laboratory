@@ -1,7 +1,8 @@
+from util import *
 #laboratory
 
-print("Tangke Minimart")
+welcomeMessage()
+name, age = ask_info()
 
-print("test new line print, by gigi!")
-
-print("lab2 3rd change")
+print("Hello", name)
+print("You are", age, "years old.")
