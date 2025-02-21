@@ -1,0 +1,3 @@
+#laboratory
+
+print("Tangke Minimart")
